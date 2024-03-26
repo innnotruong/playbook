@@ -1,6 +1,6 @@
 ---
 tags: 
-  - MBTI
+  - mbti
   - ESTJ
   - people
   - operations

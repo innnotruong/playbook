@@ -1,11 +1,14 @@
 ---
 tags: 
-  - mbti
+  - MBTI
   - ISTP
-title: Mbti Type Istp
+  - people
+  - operations
+title: MBTI Type ISTP
 date: 2021-07-25
-description: null
-authors: null
+description: All about the ISTP personality type
+authors: 
+- namtran
 menu: playbook
 type: null
 hide_frontmatter: false
